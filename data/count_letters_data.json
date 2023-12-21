@@ -1,0 +1,312 @@
+[
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0001,
+    "n": 1000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.0083,
+    "n": 1000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0001,
+    "n": 2000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.0344,
+    "n": 2000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0001,
+    "n": 3000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.0755,
+    "n": 3000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0002,
+    "n": 4000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.1333,
+    "n": 4000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0002,
+    "n": 5000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.2136,
+    "n": 5000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0004,
+    "n": 6000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.2993,
+    "n": 6000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0004,
+    "n": 7000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.4094,
+    "n": 7000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0004,
+    "n": 8000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.5317,
+    "n": 8000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0004,
+    "n": 9000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.6665,
+    "n": 9000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0005,
+    "n": 10000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 0.8272,
+    "n": 10000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0005,
+    "n": 11000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 1.0067,
+    "n": 11000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0006,
+    "n": 12000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 1.2001,
+    "n": 12000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0006,
+    "n": 13000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 1.389,
+    "n": 13000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0007,
+    "n": 14000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 1.6393,
+    "n": 14000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0008,
+    "n": 15000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 1.8989,
+    "n": 15000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0008,
+    "n": 16000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 2.1382,
+    "n": 16000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0008,
+    "n": 17000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 2.4345,
+    "n": 17000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.001,
+    "n": 18000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 2.7156,
+    "n": 18000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.001,
+    "n": 19000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 3.0239,
+    "n": 19000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0011,
+    "n": 20000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 3.3656,
+    "n": 20000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0011,
+    "n": 21000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 3.6594,
+    "n": 21000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0011,
+    "n": 22000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 3.9108,
+    "n": 22000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0012,
+    "n": 23000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 4.2828,
+    "n": 23000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0013,
+    "n": 24000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 4.7923,
+    "n": 24000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0013,
+    "n": 25000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 5.2207,
+    "n": 25000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0014,
+    "n": 26000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 5.6636,
+    "n": 26000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0014,
+    "n": 27000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 6.0392,
+    "n": 27000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0014,
+    "n": 28000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 6.5523,
+    "n": 28000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0016,
+    "n": 29000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 6.9725,
+    "n": 29000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0017,
+    "n": 30000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 7.4737,
+    "n": 30000
+  },
+  {
+    "func_name": "f_fast",
+    "seconds": 0.0017,
+    "n": 31000
+  },
+  {
+    "func_name": "f_slow",
+    "seconds": 8.0429,
+    "n": 31000
+  }
+]
